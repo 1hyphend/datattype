@@ -39,4 +39,5 @@
 
 
 x=input("input a sentence")
-y=x.split
+y=x.split()
+
