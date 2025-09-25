@@ -38,6 +38,33 @@
 #     print("running")
 
 
-x=input("input a sentence")
-y=x.split()
+# x=input("money")
+
+# x = "this is a super cool thing"
+# y= x.split( )
+# z = y[0]
+# print(y)
+# print(z)
+
+# x=input("input a sentence user")
+# x= "input sentence"
+# y=x.split
+# print(y)
+
+
+# day_of_week = input("what day is it? ")
+# if day_of_week == "Friday":
+#     print("correct")
+# else:
+#     print("incorrect")
+# x = "is"
+# print(f"Temp {x}")
+
+# temp = 75
+# if temp > 68:
+#     print('warm')
+# elif temp == 70:
+#     print('perfect')
+# else:
+#     print('cold')
 
