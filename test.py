@@ -5,7 +5,10 @@
 
 # total = tip + bill
 # print(str("your total is")+str(total))
-
+# def factors(x,y):
+#     if x % y ==0:
+#         print("factor")
+# factors(25,5)
 
 # values = [1,2.23,5,7,2,30,15]
 # print(values)
@@ -46,10 +49,10 @@
 # print(y)
 # print(z)
  
-x=input("give me a sentence")
-y=x.split( )
-z=len(y)
-print(y)
+# x=input("give me a sentence")
+# y=x.split( )
+# z=len(y)
+# print(z)
 
 
 # day_of_week = input("what day is it? ")
@@ -68,7 +71,10 @@ print(y)
 # elif temp == 70:
 #     print('perfect')
 # else:
-#     print('cold')
+#     print('cold')3
 
-# x="even"
-
+x=int(input("Give me a number"))
+if x%2==0:
+    print("even")
+else:
+    print("odd")
