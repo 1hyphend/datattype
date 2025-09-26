@@ -45,11 +45,11 @@
 # z = y[0]
 # print(y)
 # print(z)
-
-# x=input("input a sentence user")
-# x= "input sentence"
-# y=x.split
-# print(y)
+ 
+x=input("give me a sentence")
+y=x.split( )
+z=len(y)
+print(y)
 
 
 # day_of_week = input("what day is it? ")
@@ -59,6 +59,8 @@
 #     print("incorrect")
 # x = "is"
 # print(f"Temp {x}")
+# x = "test"
+# print(f"hello {x}")
 
 # temp = 75
 # if temp > 68:
@@ -67,4 +69,6 @@
 #     print('perfect')
 # else:
 #     print('cold')
+
+# x="even"
 
