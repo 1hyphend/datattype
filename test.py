@@ -72,9 +72,27 @@
 #     print('perfect')
 # else:
 #     print('cold')3
+# C1
+# x=int(input("Give me a number"))
+# if x%2==0:
+#     print("even")
+# else:
+#     print("odd")
+# C2
 
-x=int(input("Give me a number"))
-if x%2==0:
-    print("even")
-else:
-    print("odd")
+bill=("what is the bill")
+bill=float(bill)
+service=input("tip plz")
+bad=float(0)
+okay=float(0.15)
+good=float(0.2)
+great=float(0.25)
+if service== bad:
+    tip=(100)
+if service== okay:
+    tip=(0.15)
+if service== good:
+    tip=(0.2)
+if service==great:
+    tip=(0.25)
+print(str(tip))
