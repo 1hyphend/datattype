@@ -71,7 +71,7 @@
 # elif temp == 70:
 #     print('perfect')
 # else:
-#     print('cold')3
+#     print('cold')
 # C1
 # x=int(input("Give me a number"))
 # if x%2==0:
@@ -80,19 +80,26 @@
 #     print("odd")
 # C2
 
-bill=("what is the bill")
+
+bill=input("what is the bill")
 bill=float(bill)
-service=input("tip plz")
+service=input("how was the service")
 bad=float(0)
 okay=float(0.15)
 good=float(0.2)
 great=float(0.25)
-if service== bad:
-    tip=(100)
-if service== okay:
-    tip=(0.15)
-if service== good:
-    tip=(0.2)
-if service==great:
-    tip=(0.25)
-print(str(tip))
+tip=0
+if service== 'good':
+    tip=0.2*bill
+total= tip + bill
+print(str(total))
+
+
+
+# if service== okay:
+#     tip=okay*bill 
+# elif service== good:
+#    tip=good*bill
+# elif service==great:
+#     tip=great*bill
+
