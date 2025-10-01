@@ -79,7 +79,13 @@
 # else:
 #     print("odd")
 # C2
+# Bill= input("How much is bill")  
 
+# bill=float(Bill)
+# tip=bill*0.18
+
+# total = tip + bill
+# print(str("your total is")+str(total))
 
 bill=input("what is the bill")
 bill=float(bill)
@@ -91,8 +97,13 @@ great=float(0.25)
 tip=0
 if service== 'good':
     tip=0.2*bill
+elif service== 'great':
+    tip=0.25*bill
+elif service== 'okay':
+    tip=0.15*bill
 total= tip + bill
-print(str(total))
+print(str("your total is")+str(bill+tip))
+
 
 
 
