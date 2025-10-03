@@ -79,38 +79,41 @@
 # else:
 #     print("odd")
 # C2
-# Bill= input("How much is bill")  
 
-# bill=float(Bill)
-# tip=bill*0.18
+# bill=input("what is the bill")
+# bill=float(bill)
+# service=input("how was the service")
+# bad=float(0)
+# okay=float(0.15)
+# good=float(0.2)
+# great=float(0.25)
+# tip=0
+# if service== 'good':
+#     tip=0.2*bill
+# elif service== 'great':
+#     tip=0.25*bill
+# elif service== 'okay':
+#     tip=0.15*bill
+# total= tip + bill
+# print(str("your total is")+str(bill+tip))
 
-# total = tip + bill
-# print(str("your total is")+str(total))
-
-bill=input("what is the bill")
-bill=float(bill)
-service=input("how was the service")
-bad=float(0)
-okay=float(0.15)
-good=float(0.2)
-great=float(0.25)
-tip=0
-if service== 'good':
-    tip=0.2*bill
-elif service== 'great':
-    tip=0.25*bill
-elif service== 'okay':
-    tip=0.15*bill
-total= tip + bill
-print(str("your total is")+str(bill+tip))
-
-
+# C3
+# x= int(input)("determine all factors")
+# y= int(input)("determine all factors")
+# C4
+# if x%2==0 and y%2==0:
+#    (x,y)== True
 
 
-# if service== okay:
-#     tip=okay*bill 
-# elif service== good:
-#    tip=good*bill
-# elif service==great:
-#     tip=great*bill
 
+
+
+def language(x):
+    print("define language")
+
+if input(str("text is probably english")):
+
+    N= input
+(0<N<10000)
+
+    
