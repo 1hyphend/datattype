@@ -1,2 +1,61 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# #Floats
+# bill=31.56
+# Boolean or true/False
+
+# x=True
+# y=False
+# == is evaluation
+# ifx==10:
+#         print("x is 10")
+# elif x >10:
+#     print("x is greater than 10")
+# else:
+#     print("x less than 10")
+# students = ["sean", "Olivia" , "Ayaan" , "Youssef"]
+# # print(students[0])
+# # for student in students:
+# #         print(student) 
+# if "Olivia" in students:
+#     print("She's kinda lame")
+# else:
+#     print("She's stilllame but not in this class")
+
+# for student in students:
+#     if student== "Mia":
+
+#         print("Mia is extra lame")
+#     else:
+#         print("Mia not here")
+# name ="a n d y" 
+# print(len(name))
+# for letter in name:
+#     """for letter in name:
+#     print(letter)"""
+# # # y=input("w```````hats your name")
+# # #print(y)
+# def add(x,y):
+#     return(x + y)
+#     bill=add(5,10)
+
+# money = True 
+# friend = True
+
+# def movie():
+#          if money or friend:
+#             print("movies")
+#             movie()
+# hw = False
+
+# def movies():
+#      if not hw:
+#           print("movie time")
+#      else:
+#           print("damn Russian bro")
+#           movies()
+
+# def factors(x,y):
+#     if x % y ==0:
+#         print("factor")
+# factors(25,5)
