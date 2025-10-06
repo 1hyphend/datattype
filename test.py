@@ -100,6 +100,8 @@
 # C3
 # x= int(input)("determine all factors")
 # y= int(input)("determine all factors")
+
+
 # C4
 # if x%2==0 and y%2==0:
 #    (x,y)== True
@@ -108,12 +110,23 @@
 
 
 
+
+
+
+
+
 def language(x):
-    print("define language")
+    for char in x:
+        print(x)
+    language("I want pizza")
+char1= "s"
+char2= "t"
 
-if input(str("text is probably english")):
 
-    N= input
-(0<N<10000)
 
-    
+
+
+
+
+
+# if input(str("text is probably english")):
