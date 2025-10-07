@@ -97,9 +97,24 @@
 # total= tip + bill
 # print(str("your total is")+str(bill+tip))
 
+
+
+
+
+
+
+
+
+
 # C3
 # x= int(input)("determine all factors")
 # y= int(input)("determine all factors")
+
+
+
+
+
+
 
 
 # C4
@@ -108,25 +123,25 @@
 
 
 
-
-
-
-
-
-
-
 def language(x):
+    s=0
+    t=0
     for char in x:
-        print(x)
-    language("I want pizza")
-char1= "s"
-char2= "t"
+     if char == "s" or char == "S":
+        s +=1
+     elif char == "t" or char == "T":
+          t +=1
 
+    if s > t:
+        print("English")
+    else:
+        print("French")
+language("Super cool shirt")
 
+# spaces
+# spaces(y,t):
 
-
-
-
+# space("CCC", "C.C.C.")
 
 
 # if input(str("text is probably english")):
