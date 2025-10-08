@@ -118,30 +118,34 @@
 
 
 # C4
+# x=int()
+# y=int()
 # if x%2==0 and y%2==0:
 #    (x,y)== True
 
 
 
-def language(x):
-    s=0
-    t=0
-    for char in x:
-     if char == "s" or char == "S":
-        s +=1
-     elif char == "t" or char == "T":
-          t +=1
+# def language(x):
+#     s=0
+#     t=0
+#     for char in x:
+#      if char == "s" or char == "S":
+#         s +=1
+#      elif char == "t" or char == "T":
+#           t +=1
 
-    if s > t:
-        print("English")
-    else:
-        print("French")
-language("Super cool shirt")
-
-# spaces
-# spaces(y,t):
-
-# space("CCC", "C.C.C.")
+#     if s > t:
+#         print("English")
+#     else:
+#         print("French")
+# language("Super cool shirt")
 
 
-# if input(str("text is probably english")):
+
+
+
+def space(x):
+    t=("Occupied")
+
+
+space("tttxtt")
