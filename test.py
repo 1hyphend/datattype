@@ -118,11 +118,16 @@
 
 
 # C4
-# x=int()
-# y=int()
-# if x%2==0 and y%2==0:
-#    (x,y)== True
-
+x=int(1)
+y=int(1)
+if x%2==0 and y%2==0:
+   ("Even")
+else:
+   x%2==(float)
+   y%2==(float)
+   ("odd")
+   num1=(x)
+   num2=(y)
 
 
 # def language(x):
@@ -144,8 +149,17 @@
 
 
 
-def space(x):
-    t=("Occupied")
+
+# def spaces(y,t):
+#     occupied = 0
+#     for i in range(n):
+#         if y[i] == "C" and t[i] == "C":
+#         occupied += 1
+#     return(occupied)
+
+#print(spaces(5, "CCC..",".C.C."))
+
+# print("tttxtt")
 
 
-space("tttxtt")
+
