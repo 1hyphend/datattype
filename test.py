@@ -78,6 +78,41 @@
 #     print("even")
 # else:
 #     print("odd")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # C2
 
 # bill=input("what is the bill")
@@ -117,17 +152,18 @@
 
 
 
+
+
 # C4
-x=int(1)
-y=int(1)
+x= input("give me a number")
+y= input("give me a number")
 if x%2==0 and y%2==0:
    ("Even")
 else:
    x%2==(float)
    y%2==(float)
    ("odd")
-   num1=(x)
-   num2=(y)
+   
 
 
 # def language(x):
@@ -162,4 +198,48 @@ else:
 # print("tttxtt")
 
 
+def honi(x):
+   if x(len(1)):
+    for i in range:
+      set 
+      setattr
+      stopiteration
+
+
+
+
+
+
+
+
+
+# def MC(n, s, a):
+#   correct = 0 
+#   for i in range(n):
+#     if s[i] == a[i]:
+#       correct +=1
+
+
+
+# """def pass(x):
+#     lower = 0 
+#     upper = 0
+#     digits=0
+#     if len(x) > 8 and len(x) < 12:
+#       for char in x:
+#         if char. islower():
+#     if lower > 2 """
+
+
+
+
+
+
+# def elder(o, n, duels):
+#     owner = o
+#     owners = 1
+#     for i in range(n):
+#        if i[2] == owner:
+#           owner= 1[0]
+#           owners = owners + 1
 
