@@ -154,15 +154,31 @@
 
 
 
+
+
+
+
+
 # C4
-x= input("give me a number")
-y= input("give me a number")
-if x%2==0 and y%2==0:
-   ("Even")
+
+factor1= input("give me a number")
+factor2= input("give me a number")
+
+if factor1%2==0 and factor2%2==0:
+   for i in range:
+      print("Even")
 else:
-   x%2==(float)
-   y%2==(float)
-   ("odd")
+   factor1%2==(float)
+   factor2%2==(float)
+   print("odd")
+
+
+
+
+
+
+
+
    
 
 
@@ -198,12 +214,12 @@ else:
 # print("tttxtt")
 
 
-def honi(x):
-   if x(len(1)):
-    for i in range:
-      set 
-      setattr
-      stopiteration
+# def honi(x):
+#    if x(len(1)):
+#     for i in range:
+#       set 
+#       setattr
+      
 
 
 
