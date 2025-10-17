@@ -166,8 +166,8 @@ def gcf(x,y):
    elif y%x==0:
       print(x)
    else:
-      print("No GCF")
-
+      print(1)
+print(input("Give a number"))
 
 
 
