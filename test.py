@@ -163,12 +163,7 @@
 
 def gcf(x,y)
 if x%2==0 and y%2==0:
-   for i in range:
-      print("Even")
-else:
-   factor1%2==(float)
-   factor2%2==(float)
-   print("odd")
+   
 
 
 
