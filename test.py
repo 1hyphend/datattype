@@ -161,10 +161,8 @@
 
 # C4
 
-factor1= input("give me a number")
-factor2= input("give me a number")
-
-if factor1%2==0 and factor2%2==0:
+def gcf(x,y)
+if x%2==0 and y%2==0:
    for i in range:
       print("Even")
 else:
