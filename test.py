@@ -162,15 +162,15 @@
 # C4
 def gcf(x,y):
    for i in range:
-      if x%y==0:
+      if x%i==0:
          print(y)
-      elif y%x==0:
+      elif i%x==0:
          print(x)
       else:
          print(1)
 print(input("Give a number"))
 print(input("Give me another number"))
-print(input("the GCF is"))
+print(input(f"the GCF is"(x)))
 
 
 
