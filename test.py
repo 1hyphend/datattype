@@ -161,13 +161,16 @@
 
 # C4
 def gcf(x,y):
-   if x%y==0:
-      print(y)
-   elif y%x==0:
-      print(x)
-   else:
-      print(1)
+   for i in range:
+      if x%y==0:
+         print(y)
+      elif y%x==0:
+         print(x)
+      else:
+         print(1)
 print(input("Give a number"))
+print(input("Give me another number"))
+
 
 
 
