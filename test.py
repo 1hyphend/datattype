@@ -170,6 +170,7 @@ def gcf(x,y):
          print(1)
 print(input("Give a number"))
 print(input("Give me another number"))
+print(input("the GCF is"))
 
 
 
