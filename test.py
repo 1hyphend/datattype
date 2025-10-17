@@ -160,15 +160,14 @@
 
 
 # C4
-
 def gcf(x,y):
- if x%y==0:
-    print(y)
- elif y%x==0
-    print(x)
- else ("no GCF")
- 
-   
+   if x%y==0:
+      print(y)
+   elif y%x==0:
+      print(x)
+   else:
+      print("No GCF")
+
 
 
 
