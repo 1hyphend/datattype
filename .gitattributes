@@ -59,3 +59,28 @@
 #     if x % y ==0:
 #         print("factor")
 # factors(25,5)
+
+# cost of books = [
+#     {
+#         title:"The Silent Forest",
+#         author:"Emily Harper"
+#         year: 2015,
+#         genre: "Fiction"
+#         price: 12.99,
+#         stock:8,
+#     },
+#     {
+#         add on
+#     }
+# ]
+\
+
+
+# def spaces(y,t):
+#     occupied = 0
+#     for i in range(n):
+#         if y[i] == "C" and t[i] == "C":
+#         occupied += 1
+#     return(occupied)
+
+#print(spaces(5, "CCC..",".C.C."))
